@@ -1,1 +1,21 @@
 INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+INSERT INTO users (name, age) VALUES ("Bob", 56);
+
