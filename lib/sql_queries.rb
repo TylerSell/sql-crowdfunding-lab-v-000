@@ -28,7 +28,7 @@ FROM projects, pledges
 WHERE pledges.project_id = projects.id
 GROUP BY projects.title
 HAVING projects.id = pledges.project_id
-ORDER BY SUM(pledges.amount), projects.funding_goal > -1;"
+ORDER BY SUM(pledges.amount), projects.funding_goal > -1 DESC;"
 end
 
 def selects_user_names_and_amounts_of_all_pledges_grouped_by_name_then_orders_them_by_the_amount_and_users_name
