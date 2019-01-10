@@ -31,3 +31,12 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Slapchop", "Household", 10000, '03-18-2019', '04-18-2019');
 
 INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (100, 1, 4);
